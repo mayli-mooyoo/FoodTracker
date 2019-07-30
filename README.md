@@ -1,2 +1,2 @@
-# my-test
+# FoodTracker
 for my test
